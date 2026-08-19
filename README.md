@@ -40,7 +40,7 @@
 
 A modern and visually stunning front-end project inspired by Awwwards-winning websites. This project showcases a variety of advanced web animations and interactive effects, built with the powerful GreenSock Animation Platform (GSAP) and Locomotive Scroll.
 
-### [✨ View Live Demo ✨](https://gsap-awwwards-website.vercel.app/)
+### [✨ View Live Demo ✨](https://try-spylt.vercel.app/)
 
 ---
 
