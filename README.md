@@ -44,7 +44,6 @@ A modern and visually stunning front-end project inspired by Awwwards-winning we
 
 ---
 
-![Project Demo GIF](https://github.com/user/repo/blob/main/docs/demo.gif)
 _(**Note:** Please replace this with a screenshot or a GIF of your project!)_
 
 ## 📖 About The Project
